@@ -1,0 +1,8 @@
+#!/bin/bash
+
+white="\e[0;39m"
+green="\e[1;32m"
+red="\e[1;31m"
+
+echo ""
+echo -e "===>>> $red Docker stacks are in /opt directory $white <<<==="
